@@ -1,3 +1,7 @@
+## Usage: python find_gene_based_on_loci.py your_snps_loci_file your_gff3_file output.txt
+## Minghao Guo 
+## for find genes that in GFF3 files based on your significant loci detected in GWAS
+
 import csv
 import argparse
 
